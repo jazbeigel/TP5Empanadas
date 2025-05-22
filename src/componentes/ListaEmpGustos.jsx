@@ -1,4 +1,4 @@
-import './listaEmpGustos.css';
+import './styles/listaEmpGustos.css';
 
 const ListaEmpGustos = ({ pedidos }) => {
     const resumen = {}; //inicializa un objeto resumen para contar la cant de empanadas por gusto

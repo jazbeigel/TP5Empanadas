@@ -1,4 +1,4 @@
-import './ListaEmpXpersona.css';
+import './styles/ListaEmpXpersona.css';
 
 
 const ListaEmpXpersona = ({ pedidos }) => {

@@ -1,4 +1,4 @@
-import './form.css';
+import './styles/form.css';
 import { useState } from 'react';
 import Sector from './componentes del form/Sectores'; //me traigo los sectores para poder mostrarlos en las opciones
 
